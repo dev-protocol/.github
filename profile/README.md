@@ -49,6 +49,10 @@
 
 - [dev-kit-js](https://github.com/dev-protocol/dev-kit-js) [![issues](https://img.shields.io/github/issues/dev-protocol/dev-kit-js)](https://github.com/dev-protocol/dev-kit-js/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/dev-kit-js)](https://github.com/dev-protocol/dev-kit-js/pulls): 🦦 JavaScript and TypeScript SDK
 
+#### Dapps
+
+- [stakes.social](https://github.com/dev-protocol/stakes.social) [![issues](https://img.shields.io/github/issues/dev-protocol/stakes.social)](https://github.com/dev-protocol/stakes.social/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/stakes.social)](https://github.com/dev-protocol/stakes.social/pulls): 🥨 Stakes.social
+
 ##### Templates
 
 - [template-repos-ts-sol](https://github.com/dev-protocol/template-repos-ts-sol) [![issues](https://img.shields.io/github/issues/dev-protocol/template-repos-ts-sol)](https://github.com/dev-protocol/template-repos-ts-sol/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/template-repos-ts-sol)](https://github.com/dev-protocol/template-repos-ts-sol/pulls): Template repository for using TypeScript and Solidity
