@@ -15,6 +15,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### Below is a list of the most important repositories.
+
 - [protocol](https://github.com/dev-protocol/protocol): ⛓ Smart contracts used by Ethereum mainnet and Ropsten testnet
 - [protocol-l2](https://github.com/dev-protocol/protocol-l2): 🗞️ Smart contracts for Optimistic Rollups
 - [dev-kit-js](https://github.com/dev-protocol/dev-kit-js): 🦦 JavaScript and TypeScript SDK
