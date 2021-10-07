@@ -18,43 +18,43 @@
 
 ##### Protocol core
 
-- [protocol](https://github.com/dev-protocol/protocol): ⛓ Smart contracts used by Ethereum mainnet and Ropsten testnet
-- [protocol-l2](https://github.com/dev-protocol/protocol-l2): 🗞️ Smart contracts for Optimistic Rollups
-- [s-tokens](https://github.com/dev-protocol/s-tokens): 💞 NFTs mirroring DEV staking
+- [protocol](https://github.com/dev-protocol/protocol) [![issues](https://img.shields.io/github/issues/dev-protocol/protocol)](https://github.com/dev-protocol/protocol/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/protocol)](https://github.com/dev-protocol/protocol/pulls): ⛓ Smart contracts used by Ethereum mainnet and Ropsten testnet
+- [protocol-l2](https://github.com/dev-protocol/protocol-l2) [![issues](https://img.shields.io/github/issues/dev-protocol/protocol-l2)](https://github.com/dev-protocol/protocol-l2/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/protocol-l2)](https://github.com/dev-protocol/protocol-l2/pulls): 🗞️ Smart contracts for Optimistic Rollups
+- [s-tokens](https://github.com/dev-protocol/s-tokens) [![issues](https://img.shields.io/github/issues/dev-protocol/s-tokens)](https://github.com/dev-protocol/s-tokens/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/s-tokens)](https://github.com/dev-protocol/s-tokens/pulls): 💞 NFTs mirroring DEV staking
 
 ##### Governance
 
-- [govern](https://github.com/dev-protocol/govern): 🗳 Dapp for Governance
-- [vote-governance](https://github.com/dev-protocol/vote-governance): 🗳 Voting contract and SDK
+- [govern](https://github.com/dev-protocol/govern) [![issues](https://img.shields.io/github/issues/dev-protocol/govern)](https://github.com/dev-protocol/govern/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/govern)](https://github.com/dev-protocol/govern/pulls): 🗳 Dapp for Governance
+- [vote-governance](https://github.com/dev-protocol/vote-governance) [![issues](https://img.shields.io/github/issues/dev-protocol/vote-governance)](https://github.com/dev-protocol/vote-governance/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/vote-governance)](https://github.com/dev-protocol/vote-governance/pulls): 🗳 Voting contract and SDK
 
 #### Tokenomics
 
-- [DIPs](https://github.com/dev-protocol/DIPs): 📋 Dev Protocol Improvement Proposals
+- [DIPs](https://github.com/dev-protocol/DIPs) [![issues](https://img.shields.io/github/issues/dev-protocol/DIPs)](https://github.com/dev-protocol/DIPs/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/DIPs)](https://github.com/dev-protocol/DIPs/pulls): 📋 Dev Protocol Improvement Proposals
 
 ##### L2
 
-- [dev-arb-one](https://github.com/dev-protocol/dev-arb-one): 🆎 L1 DEV for Arbitrum One
-- [bridge-ui](https://github.com/dev-protocol/bridge-ui): 🌉 Bridge for multiple chains
+- [dev-arb-one](https://github.com/dev-protocol/dev-arb-one) [![issues](https://img.shields.io/github/issues/dev-protocol/dev-arb-one)](https://github.com/dev-protocol/dev-arb-one/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/dev-arb-one)](https://github.com/dev-protocol/dev-arb-one/pulls): 🆎 L1 DEV for Arbitrum One
+- [bridge-ui](https://github.com/dev-protocol/bridge-ui) [![issues](https://img.shields.io/github/issues/dev-protocol/bridge-ui)](https://github.com/dev-protocol/bridge-ui/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/bridge-ui)](https://github.com/dev-protocol/bridge-ui/pulls): 🌉 Bridge for multiple chains
 
 ##### Khaos
 
-- [khaos](https://github.com/dev-protocol/khaos): 🌌 Oraclize web2 data while keeping the credentials secret
-- [khaos-core](https://github.com/dev-protocol/khaos-core): 🌌Core library for Khaos
-- [khaos-kit-js](https://github.com/dev-protocol/khaos-kit-js): 🌌Khaos Kit for JavaScript
-- [khaos-starter-kit](https://github.com/dev-protocol/khaos-starter-kit): 🌌Start developing Khaos Functions now
-- [khaos-functions](https://github.com/dev-protocol/khaos-functions): 🌌Run Functions from IPFS
-- [khaos-registry](https://github.com/dev-protocol/khaos-registry): 🌌Khaos Registry for functions ipfs hash
+- [khaos](https://github.com/dev-protocol/khaos) [![issues](https://img.shields.io/github/issues/dev-protocol/khaos)](https://github.com/dev-protocol/khaos/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/khaos)](https://github.com/dev-protocol/khaos/pulls): 🌌 Oraclize web2 data while keeping the credentials secret
+- [khaos-core](https://github.com/dev-protocol/khaos-core) [![issues](https://img.shields.io/github/issues/dev-protocol/khaos-core)](https://github.com/dev-protocol/khaos-core/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/khaos-core)](https://github.com/dev-protocol/khaos-core/pulls): 🌌Core library for Khaos
+- [khaos-kit-js](https://github.com/dev-protocol/khaos-kit-js) [![issues](https://img.shields.io/github/issues/dev-protocol/khaos-kit-js)](https://github.com/dev-protocol/khaos-kit-js/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/khaos-kit-js)](https://github.com/dev-protocol/khaos-kit-js/pulls): 🌌Khaos Kit for JavaScript
+- [khaos-starter-kit](https://github.com/dev-protocol/khaos-starter-kit) [![issues](https://img.shields.io/github/issues/dev-protocol/khaos-starter-kit)](https://github.com/dev-protocol/khaos-starter-kit/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/khaos-starter-kit)](https://github.com/dev-protocol/khaos-starter-kit/pulls): 🌌Start developing Khaos Functions now
+- [khaos-functions](https://github.com/dev-protocol/khaos-functions) [![issues](https://img.shields.io/github/issues/dev-protocol/khaos-functions)](https://github.com/dev-protocol/khaos-functionskhaos/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/khaos-functions)](https://github.com/dev-protocol/khaos-functions/pulls): 🌌Run Functions from IPFS
+- [khaos-registry](https://github.com/dev-protocol/khaos-registry) [![issues](https://img.shields.io/github/issues/dev-protocol/khaos-registry)](https://github.com/dev-protocol/khaos-registry/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/khaos-registry)](https://github.com/dev-protocol/khaos-registry/pulls): 🌌Khaos Registry for functions ipfs hash
 
 ##### SDK
 
-- [dev-kit-js](https://github.com/dev-protocol/dev-kit-js): 🦦 JavaScript and TypeScript SDK
+- [dev-kit-js](https://github.com/dev-protocol/dev-kit-js) [![issues](https://img.shields.io/github/issues/dev-protocol/dev-kit-js)](https://github.com/dev-protocol/dev-kit-js/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/dev-kit-js)](https://github.com/dev-protocol/dev-kit-js/pulls): 🦦 JavaScript and TypeScript SDK
 
 ##### Templates
 
-- [template-repos-ts-sol](https://github.com/dev-protocol/template-repos-ts-sol): Template repository for using TypeScript and Solidity
-- [template-repos-ts](https://github.com/dev-protocol/template-repos-ts): Template repository for using TypeScript
-- [template-repos-static](https://github.com/dev-protocol/template-repos-static): Template repository for statically files
-- [template-repos-ts-functions](https://github.com/dev-protocol/template-repos-ts-functions): Template repository for Azure Functions with TypeScript
+- [template-repos-ts-sol](https://github.com/dev-protocol/template-repos-ts-sol) [![issues](https://img.shields.io/github/issues/dev-protocol/template-repos-ts-sol)](https://github.com/dev-protocol/template-repos-ts-sol/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/template-repos-ts-sol)](https://github.com/dev-protocol/template-repos-ts-sol/pulls): Template repository for using TypeScript and Solidity
+- [template-repos-ts](https://github.com/dev-protocol/template-repos-ts) [![issues](https://img.shields.io/github/issues/dev-protocol/template-repos-ts)](https://github.com/dev-protocol/template-repos-ts/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/template-repos-ts)](https://github.com/dev-protocol/template-repos-ts/pulls): Template repository for using TypeScript
+- [template-repos-static](https://github.com/dev-protocol/template-repos-static) [![issues](https://img.shields.io/github/issues/dev-protocol/template-repos-static)](https://github.com/dev-protocol/template-repos-static/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/template-repos-static)](https://github.com/dev-protocol/template-repos-static/pulls): Template repository for statically files
+- [template-repos-ts-functions](https://github.com/dev-protocol/template-repos-ts-functions) [![issues](https://img.shields.io/github/issues/dev-protocol/template-repos-ts-functions)](https://github.com/dev-protocol/template-repos-ts-functions/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/template-repos-ts-functions)](https://github.com/dev-protocol/template-repos-ts-functions/pulls): Template repository for Azure Functions with TypeScript
 
 #### See also the following sites
 
