@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Dev%20Protocol%20World%20of%20Codes;We%20support%20the%20Open%20Source%20Community;It's%20Time%20to%20Tokenize%20Open%20Source%20Software;We%20love%20$DEV%20and%20Stakes.social❤️;Developers%20and%20Sponsors%20are%20rewarded%20with%20Tokens;Let's%20support%20each%20other💟;&center=true&width=530&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Dev%20Protocol%20World%20of%20Codes;We%20support%20the%20Open%20Source%20Community;It's%20Time%20to%20Tokenize%20Open%20Source%20Software;We%20love%20$DEV%20and%20Stakes.social❤️;Developers%20and%20Sponsors%20are%20rewarded%20with%20Tokens;Let's%20support%20each%20other💟;&center=true&width=530&height=50"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
