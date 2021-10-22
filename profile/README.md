@@ -14,6 +14,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="center">Join our <a href="https://github.com/dev-protocol/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community">GitHub Organisation :octocat:</a> and continue to contribute with our Open Source Software</p>
+
+--- 
+
 #### Below is a list of the most important repositories.
 
 ##### Protocol core
