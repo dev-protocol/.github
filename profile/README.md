@@ -23,7 +23,7 @@
 ##### Protocol core
 
 - [protocol](https://github.com/dev-protocol/protocol) [![issues](https://img.shields.io/github/issues/dev-protocol/protocol)](https://github.com/dev-protocol/protocol/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/protocol)](https://github.com/dev-protocol/protocol/pulls): ⛓ Smart contracts used by Ethereum mainnet and Ropsten testnet
-- [protocol-l2](https://github.com/dev-protocol/protocol-l2) [![issues](https://img.shields.io/github/issues/dev-protocol/protocol-l2)](https://github.com/dev-protocol/protocol-l2/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/protocol-l2)](https://github.com/dev-protocol/protocol-l2/pulls): 🗞️ Smart contracts for Optimistic Rollups
+- [protocol-v2](https://github.com/dev-protocol/protocol-v2) [![issues](https://img.shields.io/github/issues/dev-protocol/protocol-v2)](https://github.com/dev-protocol/protocol-v2/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/protocol-v2)](https://github.com/dev-protocol/protocol-v2/pulls): 🗞️ Smart contracts for Optimistic Rollups
 - [s-tokens](https://github.com/dev-protocol/s-tokens) [![issues](https://img.shields.io/github/issues/dev-protocol/s-tokens)](https://github.com/dev-protocol/s-tokens/issues) [![pull requests](https://img.shields.io/github/issues-pr/dev-protocol/s-tokens)](https://github.com/dev-protocol/s-tokens/pulls): 💞 NFTs mirroring DEV staking
 
 ##### Governance
