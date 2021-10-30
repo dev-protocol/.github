@@ -27,8 +27,7 @@
   <tr></tr>
       <tr>
   <!-- s-tokens -->
-   <td width=500px><h2 align="center"><a href="https://github.com/dev-protocol/s-tokens">s-tokens</a></h2><p align="center"><a href="https://github.com/dev-protocol/s-tokens/issues"><img src="https://img.shields.io/github/issues/dev-protocol/s-tokens"></a>&nbsp;<a href="https://github.com/dev-protocol/s-tokens/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/s-tokens"></a></p><p align="center">💞 NFTs mirroring DEV staking
-.</p></td>
+   <td width=500px><h2 align="center"><a href="https://github.com/dev-protocol/s-tokens">s-tokens</a></h2><p align="center"><a href="https://github.com/dev-protocol/s-tokens/issues"><img src="https://img.shields.io/github/issues/dev-protocol/s-tokens"></a>&nbsp;<a href="https://github.com/dev-protocol/s-tokens/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/s-tokens"></a></p><p align="center">💞 NFTs mirroring DEV staking.</p></td>
 </table>
 
 #### Governance
