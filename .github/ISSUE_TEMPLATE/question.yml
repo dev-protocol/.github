@@ -10,6 +10,13 @@ body:
       description: Please write your question/discussion about this project here
     validations:
       required: true
+  - type: textarea
+    id: extrainfo
+    attributes:
+      label: Additional information
+      description: Is there anything else we should know about this issue?
+    validations:
+      required: false
   - type: checkboxes
     id: coc
     attributes:
