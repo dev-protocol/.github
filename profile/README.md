@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line -->
 <p align="center"><a href="http://devprotocol.xyz/"><img src="https://raw.githubusercontent.com/dev-protocol/.github/main/assets/Dev--animated.gif" width="20%"></a></p>
 
 
