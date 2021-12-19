@@ -1,17 +1,17 @@
 <!-- markdownlint-disable-next-line -->
-<p align="center"><a href="http://devprotocol.xyz/"><img src="https://raw.githubusercontent.com/dev-protocol/.github/main/assets/Dev--animated.gif" width="20%"></a></p>
+<p align="center"><a href="https://devprotocol.xyz/"><img src="https://raw.githubusercontent.com/dev-protocol/.github/main/assets/Dev--animated.gif" width="20%"></a></p>
 
 
 <p align="center">
-<a href="http://twitter.com/devprtcl"><img src = "https://img.shields.io/twitter/follow/devprtcl?style=social" width="17%" target="blank"></a>
-<a href="http://devprotocol.xyz/"><img src="https://custom-icon-badges.herokuapp.com/badge/Dev_Protocol_Website-black.svg?style=flat&logo=devprtcl" width="19%" target="blank"></a>
+<a href="https://twitter.com/devprtcl"><img src = "https://img.shields.io/twitter/follow/devprtcl?style=social" width="17%" target="blank"></a>
+<a href="https://devprotocol.xyz/"><img src="https://custom-icon-badges.herokuapp.com/badge/Dev_Protocol_Website-black.svg?style=flat&logo=devprtcl" width="19%" target="blank"></a>
 <a href="https://medium.com/devprtcl"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" width="9.2%" target="blank"></a>
 <a href="https://stakes.social/"><img src="https://custom-icon-badges.herokuapp.com/badge/Stakes.social-black.svg?style=flat&logo=stakes.social" width="14%" target="blank"></a>
 <a href="https://discord.gg/VwJp4KM" alt="community-discord-server"><img src="https://img.shields.io/discord/547215761341546497?logo=discord&?style=flat" target="blank" width="14%" /></a>
 </p>
 <br>
 <br>
-<p><a href="http://devprotocol.xyz/" target="blank">Dev Protocol</a> is a solution for sustainability issues of creators activities, it is designed for the blockchain solution and enhance creators to grow their economy. We love <strong>$DEV</strong> and <strong>Stakes.social</strong>. Dev Protocol is not a single platform, it’s a middleware. Dev Protocol is completely decentralized and is a middleware protocol for on-chain governance, anyone can join the ecosystem by developing various Dapps. Dev Protocol is not closed to OSS, but can bring value to all open assets such as research papers, YouTube videos, and Spotify music. Dev Protocol integrates with these markets so that projects or creators can authenticate and tokenize their work. Developers and Sponsors both are rewarded with Tokens</p>
+<p><a href="https://devprotocol.xyz/" target="blank">Dev Protocol</a> is a solution for sustainability issues of creators activities, it is designed for the blockchain solution and enhance creators to grow their economy. We love <strong>$DEV</strong> and <strong>Stakes.social</strong>. Dev Protocol is not a single platform, it’s a middleware. Dev Protocol is completely decentralized and is a middleware protocol for on-chain governance, anyone can join the ecosystem by developing various Dapps. Dev Protocol is not closed to OSS, but can bring value to all open assets such as research papers, YouTube videos, and Spotify music. Dev Protocol integrates with these markets so that projects or creators can authenticate and tokenize their work. Developers and Sponsors both are rewarded with Tokens</p>
 <br>
 
 ## Most Important Repositories
