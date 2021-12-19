@@ -1,7 +1,6 @@
 <!-- markdownlint-disable-next-line -->
 <p align="center"><a href="https://devprotocol.xyz/"><img src="https://raw.githubusercontent.com/dev-protocol/.github/main/assets/Dev--animated.gif" width="20%"></a></p>
 
-
 <p align="center">
 <a href="https://twitter.com/devprtcl"><img src = "https://img.shields.io/twitter/follow/devprtcl?style=social" width="17%" target="blank"></a>
 <a href="https://devprotocol.xyz/"><img src="https://custom-icon-badges.herokuapp.com/badge/Dev_Protocol_Website-black.svg?style=flat&logo=devprtcl" width="19%" target="blank"></a>
@@ -87,7 +86,6 @@
  </tr>
 </table>
 
-
 #### SDK
 
 <table border="0" style="display:contents">
@@ -128,11 +126,11 @@
 
 #### Also check following sites
 
-| Description   |  Content  | 
-|----------|:-------------:|
-| Documentation for developers| [View](https://docs.devprotocol.xyz) |
-| Hands-on and how to use Dev Protocol   | [View](https://initto.devprotocol.xyz) |
-| Dev Protocol Roadmap | [View](https://trello.com/b/oFu5uWJF/roadmap) |
+| Description                          |                    Content                    |
+| ------------------------------------ | :-------------------------------------------: |
+| Documentation for developers         |     [View](https://docs.devprotocol.xyz)      |
+| Hands-on and how to use Dev Protocol |    [View](https://initto.devprotocol.xyz)     |
+| Dev Protocol Roadmap                 | [View](https://trello.com/b/oFu5uWJF/roadmap) |
 
 <br>
 

@@ -16,11 +16,17 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/dev-protocol/assets.git"
+		"url": "git+https://github.com/dev-protocol/.github.git"
 	},
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/dev-protocol/assets/issues"
+		"url": "https://github.com/dev-protocol/.github/issues"
 	},
-	"homepage": "https://github.com/dev-protocol/assets#readme"
+	"homepage": "https://github.com/dev-protocol/.github#readme",
+	"keywords": [
+		"github",
+		"devprtcl",
+		"profile"
+	],
+	"author": "Dev Protocol"
 }
