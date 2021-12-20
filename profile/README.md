@@ -6,7 +6,7 @@
 <a href="https://devprotocol.xyz/"><img src="https://custom-icon-badges.herokuapp.com/badge/Dev_Protocol_Website-black.svg?style=flat&logo=devprtcl" width="19%" target="blank"></a>
 <a href="https://medium.com/devprtcl"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" width="9.2%" target="blank"></a>
 <a href="https://stakes.social/"><img src="https://custom-icon-badges.herokuapp.com/badge/Stakes.social-black.svg?style=flat&logo=stakes.social" width="14%" target="blank"></a>
-<a href="https://discord.gg/VwJp4KM" alt="community-discord-server"><img src="https://img.shields.io/discord/547215761341546497?logo=discord&?style=flat" target="blank" width="14%" /></a>
+<a href="https://discord.gg/VwJp4KM" alt="community-discord-server"><img src="https://img.shields.io/discord/547215761341546497?logo=discord&?style=flat&colorB=5865F2" target="blank" width="14%" /></a>
 </p>
 <br>
 <br>
