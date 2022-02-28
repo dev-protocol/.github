@@ -11,11 +11,12 @@
 <br>
 <br>
 <p><a href="https://devprotocol.xyz/" target="blank">Dev Protocol</a> is a solution for sustainability issues of creators activities, it is designed for the blockchain solution and enhance creators to grow their economy. We love <strong>$DEV</strong> and <strong>Stakes.social</strong>. Dev Protocol is not a single platform, it’s a middleware. Dev Protocol is completely decentralized and is a middleware protocol for on-chain governance, anyone can join the ecosystem by developing various Dapps. Dev Protocol is not closed to OSS, but can bring value to all open assets such as research papers, YouTube videos, and Spotify music. Dev Protocol integrates with these markets so that projects or creators can authenticate and tokenize their work. Developers and Sponsors both are rewarded with Tokens</p>
-<br>
 
-## Most Important Repositories
+## List of Most Important Repositories
 
-#### Protocol core
+`> Click the drop-down to view the repositories`
+
+<details><summary>Protocol core</summary>
 
 <table border="0" style="display:contents">
  <tr>
@@ -29,8 +30,9 @@
   <!-- s-tokens -->
    <td width=500px><h2 align="center"><a href="https://github.com/dev-protocol/s-tokens">s-tokens</a></h2><p align="center"><a href="https://github.com/dev-protocol/s-tokens/issues"><img src="https://img.shields.io/github/issues/dev-protocol/s-tokens"></a>&nbsp;<a href="https://github.com/dev-protocol/s-tokens/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/s-tokens"></a></p><p align="center">💞 NFTs mirroring DEV staking.</p></td>
 </table>
+</details>
 
-#### Governance
+<details><summary>Governance</summary>
 
 <table border="0" style="display:contents">
  <tr>
@@ -40,8 +42,9 @@
    <td width=500px><h2 align="center"><a href="https://github.com/dev-protocol/vote-governance">Vote-Governance</a></h2><p align="center"><a href="https://github.com/dev-protocol/vote-governance/issues"><img src="https://img.shields.io/github/issues/dev-protocol/vote-governance"></a>&nbsp;<a href="https://github.com/dev-protocol/vote-governance/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/vote-governance"></a></p><p align="center">🗳 Voting contract and SDK.</p></td>
  </tr>
 </table>
-
-#### Tokenomics
+</details>
+	
+<details><summary>Tokenomics</summary>
 
 <table border="0" style="display:contents">
  <tr>
@@ -49,8 +52,9 @@
    <td width=500px><h2 align="center"><a href="https://github.com/dev-protocol/DIPs">DIPs</a></h2><p align="center"><a href="https://github.com/dev-protocol/DIPs/issues"><img src="https://img.shields.io/github/issues/dev-protocol/DIPs"></a>&nbsp;<a href="https://github.com/dev-protocol/DIPs/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/DIPs"></a></p><p align="center">📋 Dev Protocol Improvement Proposals.</p></td>
  </tr>
 </table>
-
-#### L2
+</details>
+	
+<details><summary>L2</summary>
 
 <table border="0" style="display:contents">
  <tr>
@@ -60,8 +64,9 @@
 <td width=500px><h2 align="center"><a href="https://github.com/dev-protocol/bridge-ui">bridge-ui</a></h2><p align="center"><a href="https://github.com/dev-protocol/bridge-ui/issues"><img src="https://img.shields.io/github/issues/dev-protocol/bridge-ui"></a>&nbsp;<a href="https://github.com/dev-protocol/bridge-ui/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/bridge-ui"></a></p><p align="center"> 🌉 Bridge for multiple chains.</p></td>
  </tr>
 </table>
+</details>	
 
-#### Khaos
+<details><summary>Khaos</summary>
 
 <table border="0" style="display:contents">
  <tr>
@@ -85,8 +90,9 @@
 <td width=500px><h2 align="center"><a href="https://github.com/dev-protocol/khaos-registry">khaos-registry</a></h2><p align="center"><a href="https://github.com/dev-protocol/khaos-registry/issues"><img src="https://img.shields.io/github/issues/dev-protocol/khaos-registry"></a>&nbsp;<a href="https://github.com/dev-protocol/khaos-registry/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/khaos-registry"></a></p><p align="center">🌌Khaos Registry for functions ipfs hash.</p></td>
  </tr>
 </table>
+</details>
 
-#### SDK
+<details><summary>SDK</summary>
 
 <table border="0" style="display:contents">
  <tr>
@@ -94,8 +100,9 @@
    <td width=500px><h2 align="center"><a href="https://github.com/dev-protocol/dev-kit-js">dev-kit-js</a></h2><p align="center"><a href="https://github.com/dev-protocol/dev-kit-js/issues"><img src="https://img.shields.io/github/issues/dev-protocol/dev-kit-js"></a>&nbsp;<a href="https://github.com/dev-protocol/dev-kit-js/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/dev-kit-js"></a></p><p align="center">🦦 JavaScript and TypeScript SDK.</p></td>
  </tr>
 </table>
-
-#### Dapps
+</details>
+	
+<details><summary>Dapps</summary>
 
 <table border="0" style="display:contents">
  <tr>
@@ -103,8 +110,9 @@
    <td width=500px><h2 align="center"><a href="https://github.com/dev-protocol/stakes.social">stakes.social</a></h2><p align="center"><a href="https://github.com/dev-protocol/stakes.social/issues"><img src="https://img.shields.io/github/issues/dev-protocol/stakes.social"></a>&nbsp;<a href="https://github.com/dev-protocol/stakes.social/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/stakes.social"></a></p><p align="center">🥨 Stakes.social.</p></td>
  </tr>
 </table>
-
-#### Templates
+</details>
+	
+<details><summary>Templates</summary>
 
 <table border="0" style="display:contents">
  <tr>
@@ -122,7 +130,7 @@
    <td width=500px><h2 align="center"><a href="https://github.com/dev-protocol/template-repos-ts-functions">template-repos-ts-functions</a></h2><p align="center"><a href="https://github.com/dev-protocol/template-repos-ts-functions/issues"><img src="https://img.shields.io/github/issues/dev-protocol/template-repos-ts-functions"></a>&nbsp;<a href="https://github.com/dev-protocol/template-repos-ts-functions/pulls"><img src="https://img.shields.io/github/issues-pr/dev-protocol/template-repos-ts-functions"></a></p><p align="center">Template repository for Azure Functions with TypeScript.
 .</p></td>
 </table>
-<br>
+</details>
 
 #### Also check following sites
 
