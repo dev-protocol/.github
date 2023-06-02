@@ -158,7 +158,7 @@ src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40"
 &nbsp;
 <a href="https://www.linkedin.com/company/dev-protocol"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 &nbsp;
-<a href="https://www.youtube.com/channel/UCN7m74tFgJJnoGL4zk6aJ6g"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href="https://www.youtube.com/@poweredbyClubs"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 &nbsp;
 <a href="https://www.facebook.com/DevProtocol.xyz/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 </p>
