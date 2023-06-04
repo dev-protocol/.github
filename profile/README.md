@@ -2,7 +2,7 @@
 <p align="center"><a href="https://devprotocol.xyz/"><img src="https://raw.githubusercontent.com/dev-protocol/.github/main/assets/Dev--animated.gif" width="20%"></a></p>
 
 <p align="center">
-<a href="https://twitter.com/devprtcl"><img src = "https://img.shields.io/twitter/follow/devprtcl?style=social" width="17%" target="blank"></a>
+<a href="https://twitter.com/poweredbyClubs"><img src = "https://img.shields.io/twitter/follow/poweredbyClubs?style=social" width="17%" target="blank"></a>
 <a href="https://devprotocol.xyz/"><img src="https://custom-icon-badges.herokuapp.com/badge/Dev_Protocol_Website-black.svg?style=flat&logo=devprtcl" width="19%" target="blank"></a>
 <a href="https://medium.com/devprtcl"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" width="9.2%" target="blank"></a>
 <a href="https://stakes.social/"><img src="https://custom-icon-badges.herokuapp.com/badge/Stakes.social-black.svg?style=flat&logo=stakes.social" width="14%" target="blank"></a>
@@ -152,13 +152,13 @@
 <a href="https://discord.gg/VwJp4KM"><img alt="discord_logo" 
 src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40" height="50"/></a>
 &nbsp;
-<a href="https://twitter.com/devprtcl"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://twitter.com/poweredbyClubs"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 &nbsp;
 <a href="https://github.com/dev-protocol"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/company/dev-protocol"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 &nbsp;
-<a href="https://www.youtube.com/channel/UCN7m74tFgJJnoGL4zk6aJ6g"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href="https://www.youtube.com/@poweredbyClubs"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 &nbsp;
 <a href="https://www.facebook.com/DevProtocol.xyz/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 </p>
